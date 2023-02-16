@@ -1,7 +1,7 @@
 # update
 
----  create a style file -----
+---  create  style folder -----
 
 # update
 
---- create html folder -----
+---  create html folder -----
